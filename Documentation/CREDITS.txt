@@ -1,5 +1,19 @@
 Textures
 -Icons from Game-Icons.net - https://game-icons.net/
+- https://creativecommons.org/licenses/by/3.0/
+
+-Lorc under CC BY 3.0
+	Angler fish
+	Butterfly
+	Frog iconby 
+	Gecko iconby 
+	
+-Delapouite under CC BY 3.0
+	Bat 
+	Bear head 
+	Tortoise
+	Falcon moon 
+	Flamingo
 
 Audio FX
 -	
